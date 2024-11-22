@@ -1,0 +1,4 @@
+
+			kamal			3			it			mana
+			uvindu			45			it			manager
+			saman			22			it			manager
